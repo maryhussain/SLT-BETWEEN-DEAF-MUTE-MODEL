@@ -65,9 +65,8 @@ SLT-BETWEEN-DEAF-MUTE-MODEL/
 │   ├── extract_keypoints.py
 │   ├── preprocessing.py
 │   ├── build_dataset.py
-│   ├── augmentation.py
-│   └── augment_dataset.py
-├── notebooks/
+│   └── augmentation.py
+├── Training_model/
 │   └── Training.ipynb
 ├── .gitignore
 ├── requirements.txt
