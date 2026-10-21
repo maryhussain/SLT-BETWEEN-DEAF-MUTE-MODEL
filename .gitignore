@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets and generated arrays
+Dataset_Videos/
+Dataset_numpy/
+DATA_4/
+*.npy
+*.npz
+
+# Model weights
+*.h5
+*.keras
+*.pth
+*.pt
+
+# Local configuration
+.env
